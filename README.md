@@ -1,4 +1,4 @@
-### <span style="color:red;"> (This repository was forked from https://github.com/keitaroinc/ckanext-dataexplorer-react. The plugin was missing some view-related files, specifically `dataexplorer/fantastic/webassets.yml`. To fix this, I updated the `MANIFEST.in` file to include `*.yml` and `*.yaml` files so they are properly included when building the Python package!) </span>
+### 🚨🚨 (This repository was forked from https://github.com/keitaroinc/ckanext-dataexplorer-react. The plugin was missing some view-related files, specifically `dataexplorer/fantastic/webassets.yml`. To fix this, I updated the `MANIFEST.in` file to include `*.yml` and `*.yaml` files so they are properly included when building the Python package!) 
 
 ---
 
