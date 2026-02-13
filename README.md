@@ -1,6 +1,6 @@
 ### (This repository was forked from https://github.com/keitaroinc/ckanext-dataexplorer-react. The plugin was missing some view-related files, specifically `dataexplorer/fantastic/webassets.yml`. To fix this, I updated the `MANIFEST.in` file to include `*.yml` and `*.yaml` files so they are properly included when building the Python package!)
 
-
+---
 
 
 [![CKAN](https://img.shields.io/badge/ckan-2.8-orange.svg?style=flat-square)](https://github.com/ckan/ckan/tree/2.8) [![CKAN](https://img.shields.io/badge/ckan-2.9-orange.svg?style=flat-square)](https://github.com/ckan/ckan/tree/2.9)
