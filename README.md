@@ -15,7 +15,7 @@ The original plugin was missing some view-related files when used with CKAN 2.11
 
 This caused the following error:
 
-ERROR [ckan.lib.webassets_tools] Trying to include unknown asset: dataexplorer/main
+`ERROR [ckan.lib.webassets_tools] Trying to include unknown asset: dataexplorer/main`
 
 
 To resolve this issue, I updated the MANIFEST.in file to include *.yml and *.yaml files so that they are properly packaged and included when building the Python distribution. 🚨🚨
