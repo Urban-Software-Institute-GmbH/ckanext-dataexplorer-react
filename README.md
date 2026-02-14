@@ -11,7 +11,7 @@
 
 🚨🚨 This repository was forked from https://github.com/keitaroinc/ckanext-dataexplorer-react
 
-The original plugin was missing some view-related files when used with CKAN 2.11.4, specifically: dataexplorer/fantastic/webassets.yml
+The original plugin was missing some view-related files when used with CKAN `2.11.4`, specifically: dataexplorer/fantastic/webassets.yml
 
 This caused the following error:
 
