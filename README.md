@@ -17,6 +17,9 @@ This caused the following error:
 
 `ERROR [ckan.lib.webassets_tools] Trying to include unknown asset: dataexplorer/main`
 
+As a result, no views from the ckanext-dataexplorer-react plugin could be generated, as shown in the following picture:
+
+![Alt text](images/dataexplorer-empty.jpg)
 
 To resolve this issue, I updated the MANIFEST.in file to include *.yml and *.yaml files so that they are properly packaged and included when building the Python distribution. 🚨🚨
 
